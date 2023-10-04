@@ -1,2 +1,2 @@
 #!/bin/bash
-
+printf "%s\n" $(printf "ibase=%s; obase=%s; %s+%s" $water $bestchol $WATER $STIR)
